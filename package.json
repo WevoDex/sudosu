@@ -1,7 +1,7 @@
 {
     "name": "ip-lookup",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "api.mjs",
     "scripts": {
       "start": "vercel dev"
     },
